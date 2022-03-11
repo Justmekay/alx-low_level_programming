@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main entry - point
+ * main - Use of command puts
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
