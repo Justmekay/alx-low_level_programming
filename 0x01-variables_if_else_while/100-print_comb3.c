@@ -21,13 +21,13 @@ z = x % 10;
 
 if (y < z)
 {
-putchar(y + '0');
-putchar(z + '0');
+putchar (y + '0');
+putchar (z + '0');
 
 if (x < 89)
 {
-putchar(',');
-putchar(' ');
+putchar (',');
+putchar (' ');
 }
 
 }
@@ -35,7 +35,7 @@ putchar(' ');
 
 x++;
 }
-putchar('\n');
+putchar ('\n');
 
 return (0);
 }
