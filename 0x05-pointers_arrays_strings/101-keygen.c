@@ -1,4 +1,3 @@
-table File  15 lines (14 sloc)  185 Bytes
 #include "main.h"
 #include <stdlib.h>
 #include <time.h>
