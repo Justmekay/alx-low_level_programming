@@ -1,3 +1,4 @@
+table File  15 lines (14 sloc)  185 Bytes
 #include "main.h"
 #include <stdlib.h>
 #include <time.h>
@@ -10,6 +11,6 @@ int num;
 
 srand(time(0));
 num = rand();
-printf("%i\n", num);
+printf("Anything; %i\n", num);
 return (0);
 }
